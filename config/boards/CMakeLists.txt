@@ -1,2 +1,0 @@
-zephyr_library_sources_ifdef(CONFIG_NANO_BONGO_CAT nano_bongo_cat_widget.c)
-zephyr_library_sources_ifdef(CONFIG_NANO_BONGO_CAT nano_bongo_cat_images.c)
